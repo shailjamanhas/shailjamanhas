@@ -12,9 +12,11 @@ I specialize in **WordPress, WooCommerce, Shopify**, and **custom PHP developmen
 ---
 
 ### 🛠 Tech Stack
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,woocommerce,shopify,laravel,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,woocommerce,shopify,laravel,mysql,git,figma" />
 </p>
+
 
 ---
 
